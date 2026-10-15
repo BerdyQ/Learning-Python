@@ -1,0 +1,15 @@
+# Secrets
+.env
+credentials.json
+
+# Virtual Environment
+sheets/
+
+# Python 
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vs Code
+.vscode/
